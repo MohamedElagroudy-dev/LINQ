@@ -1,0 +1,21 @@
+D:\programming\C#\LINQ\project operation.Select\bin\Debug\net8.0\project operation.Select.exe
+D:\programming\C#\LINQ\project operation.Select\bin\Debug\net8.0\project operation.Select.deps.json
+D:\programming\C#\LINQ\project operation.Select\bin\Debug\net8.0\project operation.Select.runtimeconfig.json
+D:\programming\C#\LINQ\project operation.Select\bin\Debug\net8.0\project operation.Select.dll
+D:\programming\C#\LINQ\project operation.Select\bin\Debug\net8.0\project operation.Select.pdb
+D:\programming\C#\LINQ\project operation.Select\obj\Debug\net8.0\project operation.Select.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\project operation.Select\obj\Debug\net8.0\project operation.Select.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\project operation.Select\obj\Debug\net8.0\project operation.Select.AssemblyInfo.cs
+D:\programming\C#\LINQ\project operation.Select\obj\Debug\net8.0\project operation.Select.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\project operation.Select\obj\Debug\net8.0\project operation.Select.dll
+D:\programming\C#\LINQ\project operation.Select\obj\Debug\net8.0\refint\project operation.Select.dll
+D:\programming\C#\LINQ\project operation.Select\obj\Debug\net8.0\project operation.Select.pdb
+D:\programming\C#\LINQ\project operation.Select\obj\Debug\net8.0\project operation.Select.genruntimeconfig.cache
+D:\programming\C#\LINQ\project operation.Select\obj\Debug\net8.0\ref\project operation.Select.dll
+D:\programming\C#\LINQ\project operation.Select\obj\Debug\net8.0\project operation.Select.csproj.AssemblyReference.cache
+D:\programming\C#\LINQ\project operation.Select\bin\Debug\net8.0\FunctionalProgramming02.deps.json
+D:\programming\C#\LINQ\project operation.Select\bin\Debug\net8.0\FunctionalProgramming02.runtimeconfig.json
+D:\programming\C#\LINQ\project operation.Select\bin\Debug\net8.0\FunctionalProgramming02.exe
+D:\programming\C#\LINQ\project operation.Select\bin\Debug\net8.0\FunctionalProgramming02.dll
+D:\programming\C#\LINQ\project operation.Select\bin\Debug\net8.0\FunctionalProgramming02.pdb
+D:\programming\C#\LINQ\project operation.Select\obj\Debug\net8.0\project .1D48529E.Up2Date

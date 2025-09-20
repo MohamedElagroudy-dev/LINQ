@@ -1,0 +1,11 @@
+D:\programming\C#\LINQ\FunctionalProgramming03\bin\Debug\net8.0\FunctionalProgramming03.deps.json
+D:\programming\C#\LINQ\FunctionalProgramming03\bin\Debug\net8.0\FunctionalProgramming03.dll
+D:\programming\C#\LINQ\FunctionalProgramming03\bin\Debug\net8.0\FunctionalProgramming03.pdb
+D:\programming\C#\LINQ\FunctionalProgramming03\obj\Debug\net8.0\FunctionalProgramming03.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\FunctionalProgramming03\obj\Debug\net8.0\FunctionalProgramming03.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\FunctionalProgramming03\obj\Debug\net8.0\FunctionalProgramming03.AssemblyInfo.cs
+D:\programming\C#\LINQ\FunctionalProgramming03\obj\Debug\net8.0\FunctionalProgramming03.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\FunctionalProgramming03\obj\Debug\net8.0\FunctionalProgramming03.dll
+D:\programming\C#\LINQ\FunctionalProgramming03\obj\Debug\net8.0\refint\FunctionalProgramming03.dll
+D:\programming\C#\LINQ\FunctionalProgramming03\obj\Debug\net8.0\FunctionalProgramming03.pdb
+D:\programming\C#\LINQ\FunctionalProgramming03\obj\Debug\net8.0\ref\FunctionalProgramming03.dll

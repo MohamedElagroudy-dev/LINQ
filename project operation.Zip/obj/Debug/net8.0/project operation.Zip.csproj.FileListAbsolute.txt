@@ -1,0 +1,21 @@
+D:\programming\C#\LINQ\project operation.Zip\bin\Debug\net8.0\FunctionalProgramming02.deps.json
+D:\programming\C#\LINQ\project operation.Zip\bin\Debug\net8.0\FunctionalProgramming02.runtimeconfig.json
+D:\programming\C#\LINQ\project operation.Zip\bin\Debug\net8.0\FunctionalProgramming02.exe
+D:\programming\C#\LINQ\project operation.Zip\bin\Debug\net8.0\project operation.Zip.exe
+D:\programming\C#\LINQ\project operation.Zip\bin\Debug\net8.0\project operation.Zip.deps.json
+D:\programming\C#\LINQ\project operation.Zip\bin\Debug\net8.0\project operation.Zip.runtimeconfig.json
+D:\programming\C#\LINQ\project operation.Zip\bin\Debug\net8.0\project operation.Zip.dll
+D:\programming\C#\LINQ\project operation.Zip\bin\Debug\net8.0\project operation.Zip.pdb
+D:\programming\C#\LINQ\project operation.Zip\bin\Debug\net8.0\FunctionalProgramming02.dll
+D:\programming\C#\LINQ\project operation.Zip\bin\Debug\net8.0\FunctionalProgramming02.pdb
+D:\programming\C#\LINQ\project operation.Zip\obj\Debug\net8.0\project operation.Zip.csproj.AssemblyReference.cache
+D:\programming\C#\LINQ\project operation.Zip\obj\Debug\net8.0\project operation.Zip.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\project operation.Zip\obj\Debug\net8.0\project operation.Zip.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\project operation.Zip\obj\Debug\net8.0\project operation.Zip.AssemblyInfo.cs
+D:\programming\C#\LINQ\project operation.Zip\obj\Debug\net8.0\project operation.Zip.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\project operation.Zip\obj\Debug\net8.0\project .B0AD2599.Up2Date
+D:\programming\C#\LINQ\project operation.Zip\obj\Debug\net8.0\project operation.Zip.dll
+D:\programming\C#\LINQ\project operation.Zip\obj\Debug\net8.0\refint\project operation.Zip.dll
+D:\programming\C#\LINQ\project operation.Zip\obj\Debug\net8.0\project operation.Zip.pdb
+D:\programming\C#\LINQ\project operation.Zip\obj\Debug\net8.0\project operation.Zip.genruntimeconfig.cache
+D:\programming\C#\LINQ\project operation.Zip\obj\Debug\net8.0\ref\project operation.Zip.dll

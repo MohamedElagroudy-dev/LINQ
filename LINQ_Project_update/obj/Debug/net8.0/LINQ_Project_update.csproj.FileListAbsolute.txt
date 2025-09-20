@@ -1,0 +1,11 @@
+D:\programming\C#\LINQ\LINQ_Project_update\bin\Debug\net8.0\LINQ_Project_update.deps.json
+D:\programming\C#\LINQ\LINQ_Project_update\bin\Debug\net8.0\LINQ_Project_update.dll
+D:\programming\C#\LINQ\LINQ_Project_update\bin\Debug\net8.0\LINQ_Project_update.pdb
+D:\programming\C#\LINQ\LINQ_Project_update\obj\Debug\net8.0\LINQ_Project_update.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\LINQ_Project_update\obj\Debug\net8.0\LINQ_Project_update.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\LINQ_Project_update\obj\Debug\net8.0\LINQ_Project_update.AssemblyInfo.cs
+D:\programming\C#\LINQ\LINQ_Project_update\obj\Debug\net8.0\LINQ_Project_update.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\LINQ_Project_update\obj\Debug\net8.0\LINQ_Project_update.dll
+D:\programming\C#\LINQ\LINQ_Project_update\obj\Debug\net8.0\refint\LINQ_Project_update.dll
+D:\programming\C#\LINQ\LINQ_Project_update\obj\Debug\net8.0\LINQ_Project_update.pdb
+D:\programming\C#\LINQ\LINQ_Project_update\obj\Debug\net8.0\ref\LINQ_Project_update.dll

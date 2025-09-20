@@ -1,0 +1,18 @@
+D:\programming\C#\LINQ\Groub data\bin\Debug\net8.0\Groub data.exe
+D:\programming\C#\LINQ\Groub data\bin\Debug\net8.0\Groub data.deps.json
+D:\programming\C#\LINQ\Groub data\bin\Debug\net8.0\Groub data.runtimeconfig.json
+D:\programming\C#\LINQ\Groub data\bin\Debug\net8.0\Groub data.dll
+D:\programming\C#\LINQ\Groub data\bin\Debug\net8.0\Groub data.pdb
+D:\programming\C#\LINQ\Groub data\bin\Debug\net8.0\FunctionalProgramming03.dll
+D:\programming\C#\LINQ\Groub data\bin\Debug\net8.0\FunctionalProgramming03.pdb
+D:\programming\C#\LINQ\Groub data\obj\Debug\net8.0\Groub data.csproj.AssemblyReference.cache
+D:\programming\C#\LINQ\Groub data\obj\Debug\net8.0\Groub data.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\Groub data\obj\Debug\net8.0\Groub data.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\Groub data\obj\Debug\net8.0\Groub data.AssemblyInfo.cs
+D:\programming\C#\LINQ\Groub data\obj\Debug\net8.0\Groub data.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\Groub data\obj\Debug\net8.0\Groub data.csproj.Up2Date
+D:\programming\C#\LINQ\Groub data\obj\Debug\net8.0\Groub data.dll
+D:\programming\C#\LINQ\Groub data\obj\Debug\net8.0\refint\Groub data.dll
+D:\programming\C#\LINQ\Groub data\obj\Debug\net8.0\Groub data.pdb
+D:\programming\C#\LINQ\Groub data\obj\Debug\net8.0\Groub data.genruntimeconfig.cache
+D:\programming\C#\LINQ\Groub data\obj\Debug\net8.0\ref\Groub data.dll

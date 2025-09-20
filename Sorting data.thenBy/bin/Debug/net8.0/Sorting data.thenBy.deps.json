@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sorting data.thenBy/1.0.0": {
+        "dependencies": {
+          "FunctionalProgramming03": "1.0.0"
+        },
+        "runtime": {
+          "Sorting data.thenBy.dll": {}
+        }
+      },
+      "FunctionalProgramming03/1.0.0": {
+        "runtime": {
+          "FunctionalProgramming03.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sorting data.thenBy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FunctionalProgramming03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

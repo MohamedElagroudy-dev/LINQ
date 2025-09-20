@@ -1,0 +1,21 @@
+D:\programming\C#\LINQ\Core of linq v4\bin\Debug\net8.0\FunctionalProgramming.deps.json
+D:\programming\C#\LINQ\Core of linq v4\bin\Debug\net8.0\FunctionalProgramming.runtimeconfig.json
+D:\programming\C#\LINQ\Core of linq v4\bin\Debug\net8.0\FunctionalProgramming.exe
+D:\programming\C#\LINQ\Core of linq v4\bin\Debug\net8.0\Core of linq v4.exe
+D:\programming\C#\LINQ\Core of linq v4\bin\Debug\net8.0\Core of linq v4.deps.json
+D:\programming\C#\LINQ\Core of linq v4\bin\Debug\net8.0\Core of linq v4.runtimeconfig.json
+D:\programming\C#\LINQ\Core of linq v4\bin\Debug\net8.0\Core of linq v4.dll
+D:\programming\C#\LINQ\Core of linq v4\bin\Debug\net8.0\Core of linq v4.pdb
+D:\programming\C#\LINQ\Core of linq v4\bin\Debug\net8.0\FunctionalProgramming.dll
+D:\programming\C#\LINQ\Core of linq v4\bin\Debug\net8.0\FunctionalProgramming.pdb
+D:\programming\C#\LINQ\Core of linq v4\obj\Debug\net8.0\Core of linq v4.csproj.AssemblyReference.cache
+D:\programming\C#\LINQ\Core of linq v4\obj\Debug\net8.0\Core of linq v4.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\Core of linq v4\obj\Debug\net8.0\Core of linq v4.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\Core of linq v4\obj\Debug\net8.0\Core of linq v4.AssemblyInfo.cs
+D:\programming\C#\LINQ\Core of linq v4\obj\Debug\net8.0\Core of linq v4.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\Core of linq v4\obj\Debug\net8.0\Core of .E9CC68A0.Up2Date
+D:\programming\C#\LINQ\Core of linq v4\obj\Debug\net8.0\Core of linq v4.dll
+D:\programming\C#\LINQ\Core of linq v4\obj\Debug\net8.0\refint\Core of linq v4.dll
+D:\programming\C#\LINQ\Core of linq v4\obj\Debug\net8.0\Core of linq v4.pdb
+D:\programming\C#\LINQ\Core of linq v4\obj\Debug\net8.0\Core of linq v4.genruntimeconfig.cache
+D:\programming\C#\LINQ\Core of linq v4\obj\Debug\net8.0\ref\Core of linq v4.dll

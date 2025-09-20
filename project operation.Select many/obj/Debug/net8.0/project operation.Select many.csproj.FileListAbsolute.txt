@@ -1,0 +1,21 @@
+D:\programming\C#\LINQ\project operation.Select many\obj\Debug\net8.0\project operation.Select many.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\project operation.Select many\obj\Debug\net8.0\project operation.Select many.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\project operation.Select many\obj\Debug\net8.0\project operation.Select many.AssemblyInfo.cs
+D:\programming\C#\LINQ\project operation.Select many\obj\Debug\net8.0\project operation.Select many.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\project operation.Select many\bin\Debug\net8.0\FunctionalProgramming02.deps.json
+D:\programming\C#\LINQ\project operation.Select many\bin\Debug\net8.0\FunctionalProgramming02.runtimeconfig.json
+D:\programming\C#\LINQ\project operation.Select many\bin\Debug\net8.0\FunctionalProgramming02.exe
+D:\programming\C#\LINQ\project operation.Select many\bin\Debug\net8.0\project operation.Select many.exe
+D:\programming\C#\LINQ\project operation.Select many\bin\Debug\net8.0\project operation.Select many.deps.json
+D:\programming\C#\LINQ\project operation.Select many\bin\Debug\net8.0\project operation.Select many.runtimeconfig.json
+D:\programming\C#\LINQ\project operation.Select many\bin\Debug\net8.0\project operation.Select many.dll
+D:\programming\C#\LINQ\project operation.Select many\bin\Debug\net8.0\project operation.Select many.pdb
+D:\programming\C#\LINQ\project operation.Select many\bin\Debug\net8.0\FunctionalProgramming02.dll
+D:\programming\C#\LINQ\project operation.Select many\bin\Debug\net8.0\FunctionalProgramming02.pdb
+D:\programming\C#\LINQ\project operation.Select many\obj\Debug\net8.0\project operation.Select many.csproj.AssemblyReference.cache
+D:\programming\C#\LINQ\project operation.Select many\obj\Debug\net8.0\project .AAE6001E.Up2Date
+D:\programming\C#\LINQ\project operation.Select many\obj\Debug\net8.0\project operation.Select many.dll
+D:\programming\C#\LINQ\project operation.Select many\obj\Debug\net8.0\refint\project operation.Select many.dll
+D:\programming\C#\LINQ\project operation.Select many\obj\Debug\net8.0\project operation.Select many.pdb
+D:\programming\C#\LINQ\project operation.Select many\obj\Debug\net8.0\project operation.Select many.genruntimeconfig.cache
+D:\programming\C#\LINQ\project operation.Select many\obj\Debug\net8.0\ref\project operation.Select many.dll

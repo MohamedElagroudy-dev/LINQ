@@ -1,0 +1,14 @@
+D:\programming\C#\LINQ\linq_project\bin\Debug\net8.0\linq_project.exe
+D:\programming\C#\LINQ\linq_project\bin\Debug\net8.0\linq_project.deps.json
+D:\programming\C#\LINQ\linq_project\bin\Debug\net8.0\linq_project.runtimeconfig.json
+D:\programming\C#\LINQ\linq_project\bin\Debug\net8.0\linq_project.dll
+D:\programming\C#\LINQ\linq_project\bin\Debug\net8.0\linq_project.pdb
+D:\programming\C#\LINQ\linq_project\obj\Debug\net8.0\linq_project.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\linq_project\obj\Debug\net8.0\linq_project.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\linq_project\obj\Debug\net8.0\linq_project.AssemblyInfo.cs
+D:\programming\C#\LINQ\linq_project\obj\Debug\net8.0\linq_project.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\linq_project\obj\Debug\net8.0\linq_project.dll
+D:\programming\C#\LINQ\linq_project\obj\Debug\net8.0\refint\linq_project.dll
+D:\programming\C#\LINQ\linq_project\obj\Debug\net8.0\linq_project.pdb
+D:\programming\C#\LINQ\linq_project\obj\Debug\net8.0\linq_project.genruntimeconfig.cache
+D:\programming\C#\LINQ\linq_project\obj\Debug\net8.0\ref\linq_project.dll

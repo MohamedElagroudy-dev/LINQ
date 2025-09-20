@@ -1,0 +1,21 @@
+D:\programming\C#\LINQ\Cotr of linq\bin\Debug\net8.0\FunctionalProgramming.deps.json
+D:\programming\C#\LINQ\Cotr of linq\bin\Debug\net8.0\FunctionalProgramming.runtimeconfig.json
+D:\programming\C#\LINQ\Cotr of linq\bin\Debug\net8.0\FunctionalProgramming.exe
+D:\programming\C#\LINQ\Cotr of linq\bin\Debug\net8.0\Core of linq v1.exe
+D:\programming\C#\LINQ\Cotr of linq\bin\Debug\net8.0\Core of linq v1.deps.json
+D:\programming\C#\LINQ\Cotr of linq\bin\Debug\net8.0\Core of linq v1.runtimeconfig.json
+D:\programming\C#\LINQ\Cotr of linq\bin\Debug\net8.0\Core of linq v1.dll
+D:\programming\C#\LINQ\Cotr of linq\bin\Debug\net8.0\Core of linq v1.pdb
+D:\programming\C#\LINQ\Cotr of linq\bin\Debug\net8.0\FunctionalProgramming.dll
+D:\programming\C#\LINQ\Cotr of linq\bin\Debug\net8.0\FunctionalProgramming.pdb
+D:\programming\C#\LINQ\Cotr of linq\obj\Debug\net8.0\Core of linq v1.csproj.AssemblyReference.cache
+D:\programming\C#\LINQ\Cotr of linq\obj\Debug\net8.0\Core of linq v1.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\Cotr of linq\obj\Debug\net8.0\Core of linq v1.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\Cotr of linq\obj\Debug\net8.0\Core of linq v1.AssemblyInfo.cs
+D:\programming\C#\LINQ\Cotr of linq\obj\Debug\net8.0\Core of linq v1.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\Cotr of linq\obj\Debug\net8.0\Core of .7A6BA751.Up2Date
+D:\programming\C#\LINQ\Cotr of linq\obj\Debug\net8.0\Core of linq v1.dll
+D:\programming\C#\LINQ\Cotr of linq\obj\Debug\net8.0\refint\Core of linq v1.dll
+D:\programming\C#\LINQ\Cotr of linq\obj\Debug\net8.0\Core of linq v1.pdb
+D:\programming\C#\LINQ\Cotr of linq\obj\Debug\net8.0\Core of linq v1.genruntimeconfig.cache
+D:\programming\C#\LINQ\Cotr of linq\obj\Debug\net8.0\ref\Core of linq v1.dll

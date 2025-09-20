@@ -1,0 +1,21 @@
+D:\programming\C#\LINQ\Data Partitioning.Skip\obj\Debug\net8.0\Data Partitioning.Skip.csproj.AssemblyReference.cache
+D:\programming\C#\LINQ\Data Partitioning.Skip\obj\Debug\net8.0\Data Partitioning.Skip.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\Data Partitioning.Skip\obj\Debug\net8.0\Data Partitioning.Skip.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\Data Partitioning.Skip\obj\Debug\net8.0\Data Partitioning.Skip.AssemblyInfo.cs
+D:\programming\C#\LINQ\Data Partitioning.Skip\obj\Debug\net8.0\Data Partitioning.Skip.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\Data Partitioning.Skip\bin\Debug\net8.0\Data Partitioning.Skip.exe
+D:\programming\C#\LINQ\Data Partitioning.Skip\bin\Debug\net8.0\Data Partitioning.Skip.deps.json
+D:\programming\C#\LINQ\Data Partitioning.Skip\bin\Debug\net8.0\Data Partitioning.Skip.runtimeconfig.json
+D:\programming\C#\LINQ\Data Partitioning.Skip\bin\Debug\net8.0\Data Partitioning.Skip.dll
+D:\programming\C#\LINQ\Data Partitioning.Skip\bin\Debug\net8.0\Data Partitioning.Skip.pdb
+D:\programming\C#\LINQ\Data Partitioning.Skip\obj\Debug\net8.0\Data Par.AAF1D28F.Up2Date
+D:\programming\C#\LINQ\Data Partitioning.Skip\obj\Debug\net8.0\Data Partitioning.Skip.dll
+D:\programming\C#\LINQ\Data Partitioning.Skip\obj\Debug\net8.0\refint\Data Partitioning.Skip.dll
+D:\programming\C#\LINQ\Data Partitioning.Skip\obj\Debug\net8.0\Data Partitioning.Skip.pdb
+D:\programming\C#\LINQ\Data Partitioning.Skip\obj\Debug\net8.0\Data Partitioning.Skip.genruntimeconfig.cache
+D:\programming\C#\LINQ\Data Partitioning.Skip\obj\Debug\net8.0\ref\Data Partitioning.Skip.dll
+D:\programming\C#\LINQ\Data Partitioning.Skip\bin\Debug\net8.0\FunctionalProgramming02.deps.json
+D:\programming\C#\LINQ\Data Partitioning.Skip\bin\Debug\net8.0\FunctionalProgramming02.runtimeconfig.json
+D:\programming\C#\LINQ\Data Partitioning.Skip\bin\Debug\net8.0\FunctionalProgramming02.exe
+D:\programming\C#\LINQ\Data Partitioning.Skip\bin\Debug\net8.0\FunctionalProgramming02.dll
+D:\programming\C#\LINQ\Data Partitioning.Skip\bin\Debug\net8.0\FunctionalProgramming02.pdb

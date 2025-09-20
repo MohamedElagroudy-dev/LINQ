@@ -1,0 +1,18 @@
+D:\programming\C#\LINQ\Sorting data.thenBy\bin\Debug\net8.0\Sorting data.thenBy.exe
+D:\programming\C#\LINQ\Sorting data.thenBy\bin\Debug\net8.0\Sorting data.thenBy.deps.json
+D:\programming\C#\LINQ\Sorting data.thenBy\bin\Debug\net8.0\Sorting data.thenBy.runtimeconfig.json
+D:\programming\C#\LINQ\Sorting data.thenBy\bin\Debug\net8.0\Sorting data.thenBy.dll
+D:\programming\C#\LINQ\Sorting data.thenBy\bin\Debug\net8.0\Sorting data.thenBy.pdb
+D:\programming\C#\LINQ\Sorting data.thenBy\bin\Debug\net8.0\FunctionalProgramming03.dll
+D:\programming\C#\LINQ\Sorting data.thenBy\bin\Debug\net8.0\FunctionalProgramming03.pdb
+D:\programming\C#\LINQ\Sorting data.thenBy\obj\Debug\net8.0\Sorting data.thenBy.csproj.AssemblyReference.cache
+D:\programming\C#\LINQ\Sorting data.thenBy\obj\Debug\net8.0\Sorting data.thenBy.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\Sorting data.thenBy\obj\Debug\net8.0\Sorting data.thenBy.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\Sorting data.thenBy\obj\Debug\net8.0\Sorting data.thenBy.AssemblyInfo.cs
+D:\programming\C#\LINQ\Sorting data.thenBy\obj\Debug\net8.0\Sorting data.thenBy.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\Sorting data.thenBy\obj\Debug\net8.0\Sorting .E38ED7EB.Up2Date
+D:\programming\C#\LINQ\Sorting data.thenBy\obj\Debug\net8.0\Sorting data.thenBy.dll
+D:\programming\C#\LINQ\Sorting data.thenBy\obj\Debug\net8.0\refint\Sorting data.thenBy.dll
+D:\programming\C#\LINQ\Sorting data.thenBy\obj\Debug\net8.0\Sorting data.thenBy.pdb
+D:\programming\C#\LINQ\Sorting data.thenBy\obj\Debug\net8.0\Sorting data.thenBy.genruntimeconfig.cache
+D:\programming\C#\LINQ\Sorting data.thenBy\obj\Debug\net8.0\ref\Sorting data.thenBy.dll

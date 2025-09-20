@@ -1,0 +1,18 @@
+D:\programming\C#\LINQ\Join Operations\bin\Debug\net8.0\Join Operations.exe
+D:\programming\C#\LINQ\Join Operations\bin\Debug\net8.0\Join Operations.deps.json
+D:\programming\C#\LINQ\Join Operations\bin\Debug\net8.0\Join Operations.runtimeconfig.json
+D:\programming\C#\LINQ\Join Operations\bin\Debug\net8.0\Join Operations.dll
+D:\programming\C#\LINQ\Join Operations\bin\Debug\net8.0\Join Operations.pdb
+D:\programming\C#\LINQ\Join Operations\bin\Debug\net8.0\LINQ_Project_update.dll
+D:\programming\C#\LINQ\Join Operations\bin\Debug\net8.0\LINQ_Project_update.pdb
+D:\programming\C#\LINQ\Join Operations\obj\Debug\net8.0\Join Operations.csproj.AssemblyReference.cache
+D:\programming\C#\LINQ\Join Operations\obj\Debug\net8.0\Join Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\Join Operations\obj\Debug\net8.0\Join Operations.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\Join Operations\obj\Debug\net8.0\Join Operations.AssemblyInfo.cs
+D:\programming\C#\LINQ\Join Operations\obj\Debug\net8.0\Join Operations.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\Join Operations\obj\Debug\net8.0\Join Ope.87C6304F.Up2Date
+D:\programming\C#\LINQ\Join Operations\obj\Debug\net8.0\Join Operations.dll
+D:\programming\C#\LINQ\Join Operations\obj\Debug\net8.0\refint\Join Operations.dll
+D:\programming\C#\LINQ\Join Operations\obj\Debug\net8.0\Join Operations.pdb
+D:\programming\C#\LINQ\Join Operations\obj\Debug\net8.0\Join Operations.genruntimeconfig.cache
+D:\programming\C#\LINQ\Join Operations\obj\Debug\net8.0\ref\Join Operations.dll

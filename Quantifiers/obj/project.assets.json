@@ -1,0 +1,97 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "FunctionalProgramming03/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/FunctionalProgramming03.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FunctionalProgramming03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FunctionalProgramming03/1.0.0": {
+      "type": "project",
+      "path": "../FunctionalProgramming03/FunctionalProgramming03.csproj",
+      "msbuildProject": "../FunctionalProgramming03/FunctionalProgramming03.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "FunctionalProgramming03 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\H.DATA\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\programming\\C#\\LINQ\\Quantifiers\\Quantifiers.csproj",
+      "projectName": "Quantifiers",
+      "projectPath": "D:\\programming\\C#\\LINQ\\Quantifiers\\Quantifiers.csproj",
+      "packagesPath": "C:\\Users\\H.DATA\\.nuget\\packages\\",
+      "outputPath": "D:\\programming\\C#\\LINQ\\Quantifiers\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\H.DATA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\programming\\C#\\LINQ\\FunctionalProgramming03\\FunctionalProgramming03.csproj": {
+              "projectPath": "D:\\programming\\C#\\LINQ\\FunctionalProgramming03\\FunctionalProgramming03.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

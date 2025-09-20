@@ -1,0 +1,18 @@
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\bin\Debug\net8.0\Sorting data.OrderBy.Comparer.exe
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\bin\Debug\net8.0\Sorting data.OrderBy.Comparer.deps.json
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\bin\Debug\net8.0\Sorting data.OrderBy.Comparer.runtimeconfig.json
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\bin\Debug\net8.0\Sorting data.OrderBy.Comparer.dll
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\bin\Debug\net8.0\Sorting data.OrderBy.Comparer.pdb
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\bin\Debug\net8.0\FunctionalProgramming03.dll
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\bin\Debug\net8.0\FunctionalProgramming03.pdb
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\obj\Debug\net8.0\Sorting data.OrderBy.Comparer.csproj.AssemblyReference.cache
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\obj\Debug\net8.0\Sorting data.OrderBy.Comparer.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\obj\Debug\net8.0\Sorting data.OrderBy.Comparer.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\obj\Debug\net8.0\Sorting data.OrderBy.Comparer.AssemblyInfo.cs
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\obj\Debug\net8.0\Sorting data.OrderBy.Comparer.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\obj\Debug\net8.0\Sorting .23E8DA56.Up2Date
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\obj\Debug\net8.0\Sorting data.OrderBy.Comparer.dll
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\obj\Debug\net8.0\refint\Sorting data.OrderBy.Comparer.dll
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\obj\Debug\net8.0\Sorting data.OrderBy.Comparer.pdb
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\obj\Debug\net8.0\Sorting data.OrderBy.Comparer.genruntimeconfig.cache
+D:\programming\C#\LINQ\Sorting data.OrderBy.Comparer\obj\Debug\net8.0\ref\Sorting data.OrderBy.Comparer.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Core of linq v1/1.0.0": {
+        "dependencies": {
+          "FunctionalProgramming": "1.0.0"
+        },
+        "runtime": {
+          "Core of linq v1.dll": {}
+        }
+      },
+      "FunctionalProgramming/1.0.0": {
+        "runtime": {
+          "FunctionalProgramming.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Core of linq v1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FunctionalProgramming/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

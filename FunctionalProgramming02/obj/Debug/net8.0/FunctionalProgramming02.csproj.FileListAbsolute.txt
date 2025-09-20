@@ -1,0 +1,14 @@
+D:\programming\C#\LINQ\FunctionalProgramming02\bin\Debug\net8.0\FunctionalProgramming02.exe
+D:\programming\C#\LINQ\FunctionalProgramming02\bin\Debug\net8.0\FunctionalProgramming02.deps.json
+D:\programming\C#\LINQ\FunctionalProgramming02\bin\Debug\net8.0\FunctionalProgramming02.runtimeconfig.json
+D:\programming\C#\LINQ\FunctionalProgramming02\bin\Debug\net8.0\FunctionalProgramming02.dll
+D:\programming\C#\LINQ\FunctionalProgramming02\bin\Debug\net8.0\FunctionalProgramming02.pdb
+D:\programming\C#\LINQ\FunctionalProgramming02\obj\Debug\net8.0\FunctionalProgramming02.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\FunctionalProgramming02\obj\Debug\net8.0\FunctionalProgramming02.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\FunctionalProgramming02\obj\Debug\net8.0\FunctionalProgramming02.AssemblyInfo.cs
+D:\programming\C#\LINQ\FunctionalProgramming02\obj\Debug\net8.0\FunctionalProgramming02.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\FunctionalProgramming02\obj\Debug\net8.0\FunctionalProgramming02.dll
+D:\programming\C#\LINQ\FunctionalProgramming02\obj\Debug\net8.0\refint\FunctionalProgramming02.dll
+D:\programming\C#\LINQ\FunctionalProgramming02\obj\Debug\net8.0\FunctionalProgramming02.pdb
+D:\programming\C#\LINQ\FunctionalProgramming02\obj\Debug\net8.0\FunctionalProgramming02.genruntimeconfig.cache
+D:\programming\C#\LINQ\FunctionalProgramming02\obj\Debug\net8.0\ref\FunctionalProgramming02.dll

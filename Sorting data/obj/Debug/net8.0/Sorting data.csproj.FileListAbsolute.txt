@@ -1,0 +1,18 @@
+D:\programming\C#\LINQ\Sorting data\bin\Debug\net8.0\Sorting data.exe
+D:\programming\C#\LINQ\Sorting data\bin\Debug\net8.0\Sorting data.deps.json
+D:\programming\C#\LINQ\Sorting data\bin\Debug\net8.0\Sorting data.runtimeconfig.json
+D:\programming\C#\LINQ\Sorting data\bin\Debug\net8.0\Sorting data.dll
+D:\programming\C#\LINQ\Sorting data\bin\Debug\net8.0\Sorting data.pdb
+D:\programming\C#\LINQ\Sorting data\bin\Debug\net8.0\FunctionalProgramming03.dll
+D:\programming\C#\LINQ\Sorting data\bin\Debug\net8.0\FunctionalProgramming03.pdb
+D:\programming\C#\LINQ\Sorting data\obj\Debug\net8.0\Sorting data.csproj.AssemblyReference.cache
+D:\programming\C#\LINQ\Sorting data\obj\Debug\net8.0\Sorting data.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\C#\LINQ\Sorting data\obj\Debug\net8.0\Sorting data.AssemblyInfoInputs.cache
+D:\programming\C#\LINQ\Sorting data\obj\Debug\net8.0\Sorting data.AssemblyInfo.cs
+D:\programming\C#\LINQ\Sorting data\obj\Debug\net8.0\Sorting data.csproj.CoreCompileInputs.cache
+D:\programming\C#\LINQ\Sorting data\obj\Debug\net8.0\Sorting .4DDBD33A.Up2Date
+D:\programming\C#\LINQ\Sorting data\obj\Debug\net8.0\Sorting data.dll
+D:\programming\C#\LINQ\Sorting data\obj\Debug\net8.0\refint\Sorting data.dll
+D:\programming\C#\LINQ\Sorting data\obj\Debug\net8.0\Sorting data.pdb
+D:\programming\C#\LINQ\Sorting data\obj\Debug\net8.0\Sorting data.genruntimeconfig.cache
+D:\programming\C#\LINQ\Sorting data\obj\Debug\net8.0\ref\Sorting data.dll

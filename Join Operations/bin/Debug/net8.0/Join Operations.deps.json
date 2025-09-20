@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Join Operations/1.0.0": {
+        "dependencies": {
+          "LINQ_Project_update": "1.0.0"
+        },
+        "runtime": {
+          "Join Operations.dll": {}
+        }
+      },
+      "LINQ_Project_update/1.0.0": {
+        "runtime": {
+          "LINQ_Project_update.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Join Operations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LINQ_Project_update/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
